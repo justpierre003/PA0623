@@ -9,7 +9,7 @@ public class Store {
         Scanner scanner = new Scanner(System.in);
         DateFormat formatter = new SimpleDateFormat("MM/dd/yy");
 
-        System.out.println("WELCOME Tool Rental Store");
+        System.out.println("Pierre's Tool Rental Store");
 
         while (true) {
             System.out.println("\nPress 1 to rent a tool");
