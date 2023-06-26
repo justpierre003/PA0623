@@ -1,3 +1,3 @@
-# Cardinal-Tool-Rental-App
+Tool-Rental-App
 
 Interview Code Test.
